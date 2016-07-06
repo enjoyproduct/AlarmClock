@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android_work(2016)\Android-Alarm-Clock-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="8f11f56e350eacabf2273f646d981356eea0ed77">
+        <dex dex="E:\Android_work(2016)\Android-Alarm-Clock-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-18.0.0_7f4d0c80f8cf87410805f7db3f3a8a339a7310d7.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="E:\Android_work(2016)\Android-Alarm-Clock-master\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0_91f5c31930175b7860fe0f87febc4f6b571bd292.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="18.0.0"><source path="E:\Android_work(2016)\Android-Alarm-Clock-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\18.0.0\assets"/></dataSet><dataSet config="main"><source path="E:\Android_work(2016)\Android-Alarm-Clock-master\app\src\main\assets"/></dataSet><dataSet config="debug"><source path="E:\Android_work(2016)\Android-Alarm-Clock-master\app\src\debug\assets"/></dataSet></merger>
